@@ -1,4 +1,0 @@
-#!/bin/bash
-
-#Script to login automatically home; logs in with keys
-ssh ncollings@ncollings.whsites.net "ssh -p 48724 nate@localhost"
